@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KimoStore\\Desktop\\CatchTime\\CatchTime_V01\\CatchTime_V01\\CatchTime_V01.csproj",
+      "projectUniqueName": "C:\\Users\\KimoStore\\Source\\Repos\\CatchTime_V01\\CatchTime_V01\\CatchTime_V01.csproj",
       "projectName": "CatchTime_V01",
-      "projectPath": "C:\\Users\\KimoStore\\Desktop\\CatchTime\\CatchTime_V01\\CatchTime_V01\\CatchTime_V01.csproj",
+      "projectPath": "C:\\Users\\KimoStore\\Source\\Repos\\CatchTime_V01\\CatchTime_V01\\CatchTime_V01.csproj",
       "packagesPath": "C:\\Users\\KimoStore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KimoStore\\Desktop\\CatchTime\\CatchTime_V01\\CatchTime_V01\\obj\\",
+      "outputPath": "C:\\Users\\KimoStore\\Source\\Repos\\CatchTime_V01\\CatchTime_V01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KimoStore\\AppData\\Roaming\\NuGet\\NuGet.Config",
